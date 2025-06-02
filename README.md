@@ -82,7 +82,7 @@ The application is modular to support clarity, maintenance, and scalability:
 
 ```bash
 git clone https://github.com/AntrikshSingh07/Trading-System-Deribit-.git
-cd WebSocket_HFT
+cd Trading-System-Deribit-
 ```
 
 ### 2. Install Dependencies
