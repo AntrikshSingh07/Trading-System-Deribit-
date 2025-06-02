@@ -81,7 +81,7 @@ The application is modular to support clarity, maintenance, and scalability:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/automatesolutions/WebSocket_HFT.git
+git clone https://github.com/AntrikshSingh07/Trading-System-Deribit-.git
 cd WebSocket_HFT
 ```
 
